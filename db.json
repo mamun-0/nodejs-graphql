@@ -1,0 +1,31 @@
+{
+  "users": [
+    { "id": "1", "firstName": "Mamun", "age": 25, "companyId": "1" },
+    { "id": "2", "firstName": "Rafi", "age": 24, "companyId": "2" },
+    { "id": "3", "firstName": "Ayesha", "age": 28, "companyId": "2" },
+    { "id": "4", "firstName": "Sami", "age": 30, "companyId": "3" },
+    { "id": "5", "firstName": "Sara", "age": 22, "companyId": "4" }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Tech Innovations",
+      "description": "A leading tech company focusing on innovative solutions."
+    },
+    {
+      "id": "2",
+      "name": "Green Energy Co.",
+      "description": "A company dedicated to sustainable energy solutions."
+    },
+    {
+      "id": "3",
+      "name": "HealthPlus",
+      "description": "A health and wellness company providing various services."
+    },
+    {
+      "id": "4",
+      "name": "EduTech",
+      "description": "An educational technology company improving learning experiences."
+    }
+  ]
+}
